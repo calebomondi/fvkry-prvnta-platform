@@ -1,9 +1,9 @@
 [submodule "fvkry-be"]
 	path = fvkry-be
-	url = file:///D:/blockchain/Web3Cohort7/fvkry/fvkry-be
+	url = https://github.com/calebomondi/fvkry-backend.git
 [submodule "fvkry-fe"]
 	path = fvkry-fe
-	url = file:///D:/blockchain/Web3Cohort7/fvkry/fvkry-fe
+	url = https://github.com/calebomondi/fvkry-fe.git
 [submodule "fvkry-smartcontract"]
 	path = fvkry-smartcontract
-	url = file:///D:/blockchain/Web3Cohort7/fvkry/fvkry-smartcontract
+	url = https://github.com/calebomondi/fvkry-hardhat.git
