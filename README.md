@@ -1,4 +1,4 @@
-# Locked Savings Platform
+# Virtual Assets Locked Savings Platform
 
 ![Image](https://github.com/user-attachments/assets/3c2c4103-4b09-42d8-ba34-564477195e25)
 
@@ -26,8 +26,7 @@ FVKRY PRVNTA is a blockchain-based solution designed to enhance financial discip
    Add more funds to an existing vault.  
 5. Adjust Lock Period:  
    Extend the lock period after every three months if needed.  
-6. Emergency Withdrawals:  
-   Access funds under emergency conditions, subject to penalties or verification.  
+  
 
 
 ## Technology Stack
