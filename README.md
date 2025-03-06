@@ -57,7 +57,7 @@ FVKRY PRVNTA is a blockchain-based virtual assets and crypto locking platform th
 - Smart Contracts: Solidity (ERC-20 and ETH support)  
 - Frontend: ReactJS with Vite
 - Backend: Node.js and ExpressJS 
-- Tools and Libraries: Hardhat, OpenZeppelin, WalletConnect, Wagmi and viem. 
+- Tools and Libraries: Hardhat, OpenZeppelin, WalletConnect, Wagmi and viem
 
 ## More
 For detailed documentation on the smart contract, frontend and backend, view each individual repo readme file.
